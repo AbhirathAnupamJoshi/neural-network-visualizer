@@ -1,6 +1,0 @@
-requests==2.22.0
-numpy==1.18.1
-Flask==1.1.2
-matplotlib==3.2.2
-streamlit==0.62.0
-tensorflow==2.2.0
